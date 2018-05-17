@@ -17,7 +17,7 @@
     under the License.
 -->
 
-cordova-plugin-themeablebrowser
+cordova-plugin-themeablebrowser2
 ===============================
 
 **This repo is out of maintenance** due to its original mainteners are no longer able to maintain it in an acceptable fashion. Please consider forking this repo if it interests you. Apologies to everyone who still depends on this repo and thanks to everyone who has contributed.
@@ -109,7 +109,7 @@ This plugin launches an in-app web view on top the existing [CordovaWebView](htt
 Installation
 ------------
 
-    cordova plugin add cordova-plugin-themeablebrowser
+    cordova plugin add cordova-plugin-themeablebrowser2
 
 Additional Properties
 ---------------------
